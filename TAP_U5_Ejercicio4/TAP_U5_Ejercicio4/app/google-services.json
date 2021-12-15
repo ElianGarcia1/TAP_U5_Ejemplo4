@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462190530710",
+    "project_id": "tapappremota-df290",
+    "storage_bucket": "tapappremota-df290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462190530710:android:b1e5e2f6f8d01e3b1432b7",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tap_u5_ejercicio4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462190530710-535e5o58t7duupivmecebq51jd9rmqbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPys1VM8iNLUJam3f4v1RNRILYWi379_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462190530710-535e5o58t7duupivmecebq51jd9rmqbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
